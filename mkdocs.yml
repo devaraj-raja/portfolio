@@ -7,11 +7,11 @@
 # Edit all lines marked [YOUR ...] to customize your site
 # ============================================================
 
-site_name: "[YOUR NAME] - Geospatial Portfolio"
-site_description: "Portfolio of [YOUR NAME] — GIS, Remote Sensing, and Spatial Data Science"
-site_author: "[YOUR NAME]"
+site_name: "Devaraj's - Portfolio"
+site_description: "Portfolio of DEVARAJ RAJA — GIS, Remote Sensing, and Spatial Data Science"
+site_author: "DEVARAJ RAJA"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
-#site_url: "https://your-username.github.io/your-repo-name"
+site_url: "https://github.com/devaraj-raja/portfolio"
 
 theme:
   name: material
@@ -19,21 +19,21 @@ theme:
   # Browse icons at https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
   # and replace "material/earth" with any "material/..." icon name you prefer.
   icon:
-    logo: material/earth
+    logo: material/satellite-variant
   palette:
     # To change the color, edit the 'primary' and 'accent' values below for both
     # the 'default' (light) and 'slate' (dark) schemes.
     # Available colors: red, pink, purple, deep purple, indigo, blue, light blue,
     # cyan, teal, green, light green, lime, yellow, amber, orange, deep orange
     - scheme: default            # Light mode
-      primary: indigo
-      accent: blue
+      primary: pink
+      accent: amber
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate              # Dark mode
-      primary: indigo
-      accent: blue
+      primary: amber
+      accent: pink
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -59,16 +59,16 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-copyright: "Copyright &copy; [YOUR NAME]"
+copyright: "Copyright &copy; DEVARAJ RAJA"
 
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/[YOUR-GITHUB-USERNAME]
+      link: https://github.com/devaraj-raja
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]
+      link: https://linkedin.com/in/devaraj-r-a9a274187/
     - icon: material/email
-      link: mailto:[YOUR-EMAIL-ADDRESS]
+      link: mailto:devarajraja.rs.gis@gmail.com
 
 
 plugins:

@@ -19,10 +19,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="Devaraj Raja" class="profile-photo">
+  <h1><strong>Devaraj Raja</strong></h1>
+  <p><strong>Geospatial AI & Earth Observation Scientist</strong></p>
+  <p><em><strong> SAR/InSAR | GeoAI | GIS | Remote Sensing | Python</em></strong></p>
 </div>
 
 ---
@@ -32,15 +32,9 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+I am a Geospatial AI Data Scientist with a strong background in Remote Sensing and GIS, bringing 6 years of professional experience in Earth Observation, satellite image analysis, SAR/InSAR, LiDAR data processing, UAV mapping, and geospatial analytics. I develop data-driven geospatial solutions for environmental monitoring, disaster management, infrastructure assessment, and natural resource management using Python, ArcGIS, QGIS, Google Earth Engine, and modern geospatial technologies. 
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I am passionate about combining geospatial data, artificial intelligence, and computer vision to automate spatial analysis and generate actionable insights from Earth observation data. I am currently seeking international opportunities in Geospatial AI, Remote Sensing, GIS, SAR, LiDAR, and Earth Observation, where I can contribute to innovative, real-world geospatial solutions.
 
 </div>
 
@@ -53,7 +47,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Devaraj-CV.pdf){ .md-button }
 
 
 ---
@@ -108,6 +102,8 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 -   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
 
+    ---
+    
     - Mission planning and flight operations
     - Photogrammetry: Agisoft Metashape, OpenDroneMap
     - Point cloud processing: CloudCompare, PDAL
@@ -118,5 +114,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/devaraj-raja){ .md-button }
+[LinkedIn](https://linkedin.com/in/devaraj-r-a9a274187/){ .md-button }
