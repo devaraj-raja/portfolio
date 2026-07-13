@@ -27,13 +27,13 @@ theme:
     # cyan, teal, green, light green, lime, yellow, amber, orange, deep orange
     - scheme: default            # Light mode
       primary: pink
-      accent: amber
+      accent: red
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate              # Dark mode
       primary: amber
-      accent: pink
+      accent: yellow
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
