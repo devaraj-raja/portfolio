@@ -2,30 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/devaraj-raja/portfolio/</loc>
-         <lastmod>2026-07-13</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/devaraj-raja/portfolio/contact/</loc>
-         <lastmod>2026-07-13</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/devaraj-raja/portfolio/experience/</loc>
-         <lastmod>2026-07-13</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/devaraj-raja/portfolio/publications/</loc>
-         <lastmod>2026-07-13</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/devaraj-raja/portfolio/projects/</loc>
-         <lastmod>2026-07-13</lastmod>
+         <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/devaraj-raja/portfolio/projects/building_ins_seg_geoai/</loc>
+         <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/devaraj-raja/portfolio/projects/car_detection_geoai/</loc>
+         <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/devaraj-raja/portfolio/projects/crop_mapping_u_net/</loc>
+         <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/devaraj-raja/portfolio/projects/portfolio/</loc>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/devaraj-raja/portfolio/projects/sample-notebook/</loc>
-         <lastmod>2026-07-13</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/devaraj-raja/portfolio/projects/sample-project/</loc>
-         <lastmod>2026-07-13</lastmod>
+         <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/devaraj-raja/portfolio/projects/ship_detection_yolo/</loc>
+         <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/devaraj-raja/portfolio/projects/tree_counting_size_detection_png/</loc>
+         <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/devaraj-raja/portfolio/projects/waterbody_ss_geoai/</loc>
+         <lastmod>2026-08-05</lastmod>
     </url>
 </urlset>
