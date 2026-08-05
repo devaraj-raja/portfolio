@@ -78,16 +78,24 @@ plugins:
 
 nav:
   - Home: index.md
-  - Projects:
-    - "All Projects": projects/index.md
-    - "Sample Project": projects/sample-project.md
-    - "Jupyter Notebook Project": projects/sample-notebook.ipynb
+  - Projects: 
+      - "Ship Detection YOLO": projects/ship_detection_yolo.md
+      - "Crop Mapping Semantic Segmentation U-NET": projects/crop_mapping_u_net.md
+      - "Tree Counting & Size Detection from PNG": projects/tree_counting_size_detection_png.md
+      - "Car detection GeoAI": projects/car_detection_geoai.md
+      - "Waterbody Semantic Segmentation GeoAI": projects/waterbody_ss_geoai.md
+      - "Buildings instance Segmentation GeoAI": projects/building_ins_seg_geoai.md
+      - "Portfolio": projects/portfolio.md
+      
+    # - "All Projects": projects/index.md
+    # - "Sample Project": projects/sample-project.md
+    # - "Jupyter Notebook Project": projects/sample-notebook.ipynb
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
     #    (or drop an .ipynb file into docs/projects/ for a Jupyter notebook project)
     # 2. Edit the new file with your project content
     # 3. Add a line below (same format): - "Your Project Title": projects/your-project-name.md
     # 4. Add a project card on docs/projects/index.md
-  - Publications: publications.md
+  # - Publications: publications.md
   - Experience: experience.md
   - Contact: contact.md

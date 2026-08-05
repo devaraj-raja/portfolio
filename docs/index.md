@@ -46,7 +46,7 @@ I am passionate about combining geospatial data, artificial intelligence, and co
 
 ---
 
-[View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
+[View My Projects :material-arrow-right:](projects/ship_detection_yolo.md){ .md-button .md-button--primary }
 [Download CV :material-download:](assets/Devaraj-CV.pdf){ .md-button }
 
 
