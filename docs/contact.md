@@ -22,10 +22,11 @@ Feel free to reach out through any of the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:[YOUR-EMAIL-ADDRESS]) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://github.com/[YOUR-GITHUB-USERNAME]) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
-| :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
+| :material-email: **Email** | [devarajraja.rs.gis@gmail.com](mailto:devarajraja.rs.gis@gmail.com) |
+| :material-phone: **Phone** | [+918667414221](+918667414221) | 
+| :fontawesome-brands-github: **GitHub** | [github.com/devaraj-raja](https://github.com/devaraj-raja) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [https://linkedin.com/in/devaraj-r-a9a274187/](https://linkedin.com/in/devaraj-r-a9a274187/) |
+<!-- | :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) | -->
 
 ---
 
