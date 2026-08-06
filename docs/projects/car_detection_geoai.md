@@ -53,9 +53,17 @@ This project demonstrates automated car detection from high-resolution aerial im
 
 ## Results
 
-![Project overview image](../assets/images/placeholder-project.png)
+![Project overview image](../assets/images/car_detection.png)
 
-<!-- Performance metrics and detection accuracy will be added later. -->
+| Metric | Value |
+|---------|------:|
+| Model | Mask R-CNN |
+| Pretrained Weights | Yes |
+| Training Epochs | 100 |
+| Learning Rate | 0.005 |
+| Batch Size | 4 |
+| Validation Split | 20% |
+
 
 ## Future Improvements
 

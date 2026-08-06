@@ -48,13 +48,19 @@ This project focuses on detecting ships in satellite imagery using the YOLOv8 ob
 
 ## Results
 
-![Project overview image](../assets/images/placeholder-project.png)
-<!-- > **Performance metrics will be added later.**
+![Project overview image](../assets/images/ship_detection.png)
 
-- mAP: —
-- Precision: —
-- Recall: —
-- F1 Score: — -->
+
+| Metric | Value |
+|---------|------:|
+| Model | YOLOv8s |
+| Training Epochs | 100 |
+| Precision | 92.24% |
+| Recall | 94.44% |
+| mAP@0.5 | 97.84% |
+| mAP@0.5:0.95 | 54.04% |
+
+
 
 ## Future Improvements
 

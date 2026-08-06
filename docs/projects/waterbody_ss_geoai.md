@@ -52,7 +52,17 @@ This project demonstrates semantic segmentation of water bodies from satellite i
 
 ## Results
 
-![Project overview image](../assets/images/placeholder-project.png)
+![Project overview image](../assets/images/water_detection.png)
+
+| Metric | Value |
+|---------|------:|
+| Model | U net |
+| Pretrained Weights | Yes |
+| Training Epochs | 50 |
+| Learning Rate | 0.001 |
+| Batch Size | 8 |
+| Validation Split | 20% |
+| No of class | 2 |
 
 <!-- Performance metrics, IoU, Dice Score, Precision, Recall, and sample prediction images will be added later. -->
 

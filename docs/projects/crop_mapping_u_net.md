@@ -54,9 +54,17 @@ This project demonstrates a crop mapping workflow using Sentinel-2 satellite ima
 
 ## Results
 
-![Project overview image](../assets/images/placeholder-project.png)
+![Project overview image](../assets/images/crop_mapping.png)
 
-<!-- Performance metrics and sample outputs will be added later. -->
+| Metric | Value |
+|---------|------:|
+| Model | Simplified U-Net |
+| Training Epochs | 15 |
+| Accuracy | 86.70% |
+| Precision | 89.84% |
+| Recall | 91.68% |
+| F1-Score | 90.75% |
+| IoU | 83.06% |
 
 ## Future Improvements
 

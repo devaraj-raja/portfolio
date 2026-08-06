@@ -53,9 +53,17 @@ This project demonstrates building instance segmentation from high-resolution ae
 
 ## Results
 
-![Project overview image](../assets/images/placeholder-project.png)
+![Project overview image](../assets/images/building_IS_geoai.png)
 
-<!-- Performance metrics, prediction accuracy, and sample outputs will be added later. -->
+| Metric | Value |
+|---------|------:|
+| Model | Mask R CNN |
+| Pretrained Weights | Yes |
+| Training Epochs | 50 |
+| Learning Rate | 0.005 |
+| Batch Size | 4 |
+| Validation Split | 20% |
+| No of class | 2 |
 
 ## Future Improvements
 

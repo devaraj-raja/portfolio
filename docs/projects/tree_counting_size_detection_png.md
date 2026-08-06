@@ -50,9 +50,24 @@ This project focuses on detecting, counting, and estimating tree sizes from aeri
 
 ## Results
 
-![Project overview image](../assets/images/placeholder-project.png)
+![Project overview image](../assets/images/tree_counting_size_detection.png)
 
-<!-- Detection statistics and accuracy metrics will be added later. -->
+
+| Metric | Value |
+|---------|------:|
+| Detection Method | Template Matching |
+| Library | scikit-image |
+| Similarity Threshold | 0.85 |
+| Tree Size Categories | 4 (Small, Medium, Large, Extra Large) |
+| Output | Tree Count & Size Classification |
+| Visualization | Annotated Tree Detection Map |
+| Small Trees | 181 |
+| Medium Trees | 326 |
+| Large Trees | 131 |
+| Extra Large Trees | 29 |
+| Total Trees Detected | 667 |
+| Actual Trees  | 721 |
+| Accuracy | 92.51 % |
 
 ## Future Improvements
 
