@@ -86,6 +86,10 @@ nav:
       - "Car detection GeoAI": projects/car_detection_geoai.md
       - "Waterbody Semantic Segmentation GeoAI": projects/waterbody_ss_geoai.md
       - "Buildings Instance Segmentation GeoAI": projects/building_ins_seg_geoai.md
+      - "3D Modeling from Drone and Non Drone Imagery": projects/3d_models.md
+      - "Web GIS Explorer for Dubai EV Charging Stations": projects/web_gis_applications.md
+      - "Flood News Monitor Dashboard (India region)": projects/flood_news_dashboard.md
+      - "Flood Damage Assessment and Repair Cost Estimation": projects/flood_da_rcs.md
       
     # - "All Projects": projects/index.md
     # - "Sample Project": projects/sample-project.md
@@ -96,7 +100,8 @@ nav:
     # 2. Edit the new file with your project content
     # 3. Add a line below (same format): - "Your Project Title": projects/your-project-name.md
     # 4. Add a project card on docs/projects/index.md
-  # - Publications: publications.md
+  
   - Experience: experience.md
+  - Publications: publications.md
   - Certifications: certifications.md
   - Contact: contact.md

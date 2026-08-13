@@ -77,7 +77,20 @@ I am passionate about combining geospatial data, artificial intelligence, and co
     - Surface Deformation & Subsidence Monitoring
     - Change Detection
 
--   :material-satellite-variant:{ .lg .middle } **Satellite Data & Applications**
+-   :material-brain:{ .lg .middle } **GeoAI, AI/ML & Deep Learning**
+
+    ---
+
+    - Geospatial AI
+    - Computer Vision
+    - Object Detection — YOLOv8
+    - Semantic Segmentation — U-Net
+    - Instance Segmentation — Mask R-CNN
+    - Random Forest Classification
+    - Support Vector Machine
+        
+
+<!-- -   :material-satellite-variant:{ .lg .middle } **Satellite Data & Applications**
 
     ---
 
@@ -87,19 +100,20 @@ I am passionate about combining geospatial data, artificial intelligence, and co
     - TerraSAR-X, COSMO-SkyMed
     - Gaofen-3, KOMPSAT
     - WorldView, GeoEye
-    - Sentinel-5
+    - Sentinel-5 -->
 
--   :material-robot:{ .lg .middle } **GeoAI & Spatial Analytics**
+-   :material-robot:{ .lg .middle } **Spatial Analytics**
 
     ---
 
     - Land Use / Land Cover Classification
     - Object-Based Image Analysis (OBIA)
-    - Random Forest Classification
+    - Pixel-Based Classification
     - Species Distribution Modeling
     - Landscape & Fragmentation Analysis
     - Vegetation & Biodiversity Mapping
     - QA/QC & Spatial Data Validation
+  
 
 -   :material-code-braces:{ .lg .middle } **Programming & Automation**
 
@@ -196,3 +210,4 @@ I am passionate about combining geospatial data, artificial intelligence, and co
 
 [GitHub](https://github.com/devaraj-raja){ .md-button }
 [LinkedIn](https://linkedin.com/in/devaraj-r-a9a274187/){ .md-button }
+[Contact :material-arrow-right:](contact.md){ .md-button .md-button--primary }

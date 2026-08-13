@@ -11,7 +11,7 @@ CHECKLIST FOR THIS PAGE:
 - [ ] Add DOI or URL links where available
 -->
 
-# Publications
+<!-- # Publications
 
 ## Journal Articles
 
@@ -43,4 +43,12 @@ CHECKLIST FOR THIS PAGE:
 
 ---
 
-*For citation counts and a full list, see [Google Scholar](https://scholar.google.com) or [ResearchGate](https://www.researchgate.net).*
+*For citation counts and a full list, see [Google Scholar](https://scholar.google.com) or [ResearchGate](https://www.researchgate.net).* -->
+
+---
+
+
+- GLOF in the South Lhonak Lake, India: Photogrammetric Analysis and Estimation — *Journal of Water and Climate Change*, 16(1):127–141 (Dec 2024)
+- Exploring the Untapped Potential: Using AHP and GIS to Identify Suitable Areas for Tourism Development in Meghalaya — *IJIRSES*, Vol. 3, Issue 3 (Mar 2023)
+- Estimation of Dam Subsidence using D-InSAR Method — Devaraj R. et al., *Journal of the Indian Society of Remote Sensing* (peer review, 2026)
+- Mapping of Invasive Alien Plant Species: Chromolaena odorata using WorldView-2 Data — Conference Paper, Siddipet College – 3rd Prize (Apr 2023)

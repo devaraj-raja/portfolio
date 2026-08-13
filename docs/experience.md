@@ -12,6 +12,19 @@ hide:
 
 <div class="timeline-entry" markdown>
 
+### Consultant Freelance — Australia (Remote, India)
+*Nov 2025 – May 2026 | Remote*
+
+- Worked on a vegetation management project for Southern California Edison (US) transmission corridors using GIS and LiDAR data
+- Processed and analyzed LiDAR datasets to identify tree locations, vegetation density, and clearance areas near power lines and transmission towers
+- Created and updated GIS layers for trees, vegetation risk zones, and utility right-of-way (ROW) areas
+- Performed QA/QC, data validation, and mapping to support vegetation trimming and powerline safety assessments
+- Assisted in generating accurate 3D maps and reports for field teams to prioritize vegetation maintenance activities
+
+</div>
+
+<div class="timeline-entry" markdown>
+
 ### SAR Engineer — Eartheye Space
 *Apr 2025 – Nov 2025 | Bangalore, India*
 
@@ -69,11 +82,3 @@ hide:
 ### B.E., Civil Engineering
 **SVCET, Anna University** | *2014 – 2018*
 
----
-
-## Publications
-
-- GLOF in the South Lhonak Lake, India: Photogrammetric Analysis and Estimation — *Journal of Water and Climate Change*, 16(1):127–141 (Dec 2024)
-- Exploring the Untapped Potential: Using AHP and GIS to Identify Suitable Areas for Tourism Development in Meghalaya — *IJIRSES*, Vol. 3, Issue 3 (Mar 2023)
-- Estimation of Dam Subsidence using D-InSAR Method — Devaraj R. et al., *Journal of the Indian Society of Remote Sensing* (peer review, 2026)
-- Mapping of Invasive Alien Plant Species: Chromolaena odorata using WorldView-2 Data — Conference Paper, Siddipet College – 3rd Prize (Apr 2023)
